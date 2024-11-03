@@ -306,7 +306,9 @@
     },
     "chatbutton": {},
     "screenshot": "screenshot.png",
-    "modified": "2024-11-03T11:35:06.088Z"
+    "modified": "2024-11-03T11:35:06.088Z",
+    "mbrsiteDomain": "dt45rl0ljt",
+    "usedWebp": false
   },
   "pages": {
     "index.html": {
